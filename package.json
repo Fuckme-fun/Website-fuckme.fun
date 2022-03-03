@@ -1,0 +1,24 @@
+{
+  "name": "fuckme.fun",
+  "version": "1.0.0",
+  "description": "This is the fuckme.fun Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theDeal/fuckme.fun.git"
+  },
+  "keywords": [
+    "Website",
+    "Funny",
+    "Open"
+  ],
+  "author": "Carlo von Reyher, Noah Brinkis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theDeal/fuckme.fun/issues"
+  },
+  "homepage": "https://github.com/theDeal/fuckme.fun#readme"
+}

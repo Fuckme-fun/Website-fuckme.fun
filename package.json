@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/theDeal/fuckme.fun/issues"
   },
-  "homepage": "https://github.com/theDeal/fuckme.fun#readme"
+  "homepage": "https://github.com/theDeal/fuckme.fun#readme",
+  "devDependencies": {
+    "parcel": "^2.3.2"
+  }
 }

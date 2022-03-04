@@ -3,3 +3,30 @@
     src: url(./assets/fonts/Poppins-Regular.ttf);
   }
 @import "./tailwind.css";
+
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #141414;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #F3B9CE;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #EA85A8;
+}
+
+::selection {
+  background: #EA85A8; /* WebKit/Blink Browsers */
+}
+::-moz-selection {
+  background: #EA85A8; /* Gecko Browsers */
+}

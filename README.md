@@ -11,10 +11,15 @@ After compiling the Tailwind to ./src/tailwind.css we use Parcel to run and buil
 2) Create your Branch
 4) install npm
 5) install all npm Packages with 
+            
             npm install all
-6) Run the CSS Compiler 
+
+6) Run the CSS Compiler
+            
             npm run runcsscompilertailwind
+
 7)Run the Dev Setup
+            
             npm run runserver
 
 ### About the Custrom Styles

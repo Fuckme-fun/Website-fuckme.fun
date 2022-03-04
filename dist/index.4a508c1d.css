@@ -514,3 +514,8 @@ Ensure the default browser behavior of the `hidden` attribute.
   --tw-bg-opacity: 1;
   background-color: rgb(3 105 161 / var(--tw-bg-opacity));
 }
+@font-face {
+  font-family: Poppins;
+  src: url("Poppins-Regular.2cfca913.ttf");
+}
+/*# sourceMappingURL=index.4a508c1d.css.map */

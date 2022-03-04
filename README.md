@@ -19,3 +19,14 @@ After compiling the Tailwind to ./src/tailwind.css we use Parcel to run and buil
 4)Run the Dev Setup
 ```npm run runserver
 ```
+
+### About the Custrom Styles
+
+We have 3 custorm Fonts:
+Poppins (as sansSerif font),
+and the other two Default serif and mono fonts from Tailwind.css
+ 
+For Usage:
+Poppins | classname: font-sans
+serifFont | classname: font-serif
+monoFont | classname: font-mono 

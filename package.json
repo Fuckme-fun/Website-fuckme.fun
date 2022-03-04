@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "This is the fuckme.fun Website",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "runserver": "npx parcel src/index.html",

@@ -484,6 +484,14 @@ Ensure the default browser behavior of the `hidden` attribute.
   grid-column: span 5 / span 5;
 }
 
+.col-span-2 {
+  grid-column: span 2 / span 2;
+}
+
+.col-span-8 {
+  grid-column: span 8 / span 8;
+}
+
 .row-start-1 {
   grid-row-start: 1;
 }
@@ -589,6 +597,10 @@ Ensure the default browser behavior of the `hidden` attribute.
   height: 60vh;
 }
 
+.h-full {
+  height: 100%;
+}
+
 .w-5\/6 {
   width: 83.333333%;
 }
@@ -643,6 +655,10 @@ Ensure the default browser behavior of the `hidden` attribute.
 
 .grid-cols-5 {
   grid-template-columns: repeat(5, minmax(0, 1fr));
+}
+
+.grid-cols-12 {
+  grid-template-columns: repeat(12, minmax(0, 1fr));
 }
 
 .flex-col {

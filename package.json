@@ -23,5 +23,8 @@
   "homepage": "https://github.com/theDeal/fuckme.fun#readme",
   "devDependencies": {
     "parcel": "^2.3.2"
+  },
+  "dependencies": {
+    "klaro": "^0.7.18"
   }
 }

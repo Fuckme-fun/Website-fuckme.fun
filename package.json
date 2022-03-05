@@ -7,7 +7,7 @@
   "publicUrl": "./public",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "npx parcel build src/index.html --reporter @parcel/reporter-bundle-analyzer --public-url ./public/ --dist-dir ./public ",
+    "build": "npx parcel build src/index.html --reporter @parcel/reporter-bundle-analyzer --public-url ./ --dist-dir ./public ",
     "runserver": "npx parcel src/index.html",
     "runcsscompilertailwind": "npx tailwindcss -i ./tailwind-config.css -o ./src/tailwind.css --watch"
   },

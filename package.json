@@ -1,11 +1,13 @@
 {
   "name": "fuckme.fun",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is the fuckme.fun Website",
-  "main": "index.js",
   "type": "module",
+  "source": "./src/index.html",
+  "publicUrl": "./public",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npx parcel build src/index.html --reporter @parcel/reporter-bundle-analyzer --public-url ./public/ --dist-dir ./public ",
     "runserver": "npx parcel src/index.html",
     "runcsscompilertailwind": "npx tailwindcss -i ./tailwind-config.css -o ./src/tailwind.css --watch"
   },
@@ -27,6 +29,7 @@
   "devDependencies": {
     "@parcel/packager-raw-url": "^2.3.2",
     "@parcel/packager-xml": "^2.3.2",
+    "@parcel/reporter-bundle-analyzer": "^2.3.2",
     "@parcel/transformer-jsonld": "^2.3.2",
     "@parcel/transformer-sass": "^2.3.2",
     "@parcel/transformer-xml": "^2.3.2",
@@ -34,6 +37,7 @@
     "tailwindcss": "^3.0.23"
   },
   "dependencies": {
+    "caniuse-lite": "^1.0.30001313",
     "klaro": "^0.7.18"
   }
 }

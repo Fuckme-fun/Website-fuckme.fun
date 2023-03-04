@@ -325,5 +325,15 @@
             "language": "de",
             "Kategorie": "Eklig"
         },
+        {
+            "spruch": "Ich bin zwar kein Magier, aber ich würde dich trotzdem gerne in der Kiste zerlegen",
+            "language": "de",
+            "erfolg": ""
+        },
+        {
+            "spruch": "Du bist die süßeste Praline der Welt, lass mich deine Füllung sein!",
+            "language": "de",
+            "erfolg": ""
+        },
     ]
 }

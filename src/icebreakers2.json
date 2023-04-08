@@ -328,12 +328,107 @@
         {
             "spruch": "Ich bin zwar kein Magier, aber ich würde dich trotzdem gerne in der Kiste zerlegen",
             "language": "de",
-            "erfolg": ""
+            "erfolg": "Billig"
         },
         {
             "spruch": "Du bist die süßeste Praline der Welt, lass mich deine Füllung sein!",
             "language": "de",
+            "erfolg": "Billig"
+        },
+        {
+            "spruch": "Lass uns zu mir gehen und tun, wovon ich sowieso jedem erzählt habe, wir hätten es getan.",
+            "language": "de",
             "erfolg": ""
         },
+        {
+            "spruch": "Willst du deinen Körper mit mir teilen?",
+            "language": "de",
+            "erfolg": ""
+        },
+        {
+            "spruch": "Sind deine Brüste echt? Darf ich mal anfassen?",
+            "language": "de",
+            "erfolg": ""
+        },
+        {
+            "spruch": "Hast du schon mal einen echten Feuerwehrschlauch in der Hand gehabt?",
+            "language": "de",
+            "erfolg": ""
+        },
+        {
+            "spruch": "Ich liebe jeden Muskel in deinem Körper – besonders meinen.",
+            "language": "de",
+            "erfolg": ""
+        },
+        {
+            "spruch": "Würdest du für 1000 Euro mit mir ins Bett gehen? Dann müssen wir uns beeilen, denn ich brauche das Geld sehr dringend!",
+            "language": "de",
+            "erfolg": ""
+        },
+        {
+            "spruch": "Ich bin vom ADAC und würde dich heute Abend gerne abschleppen.",
+            "language": "de",
+            "erfolg": ""
+        },
+        {
+            "spruch": "Darf ich dir heute Nacht Honig um den Bauchnabel streichen?",
+            "language": "de",
+            "erfolg": ""
+        },
+        {
+            "spruch": "Ich bin vom ADAC und würde dich heute Abend gerne abschleppen.",
+            "language": "de",
+            "erfolg": ""
+        },
+        {
+            "spruch": "Meine Kondome sind knapp vor dem Verfallsdatum, wir sollten sie nutzen, solange es noch geht.",
+            "language": "de",
+            "erfolg": ""
+        },
+        {
+            "spruch": "Dieses Kostüm würde sich ausgesprochen hübsch auf meinen Schlafzimmerboden machen.",
+            "language": "de",
+            "erfolg": ""
+        },
+        {
+            "spruch": "Du bist der süßeste Snack, der mir je über den Weg gelaufen ist. Darf ich dich ohne Reue vernaschen?",
+            "language": "de",
+            "erfolg": "Billig"
+        },
+        {
+            "spruch": "Ey Baby, ich hoffe du hast ne gute Haftpflichtversicherung. Du hast mir nämlich gerade eine mega Beule in die Hose gemacht!",
+            "language": "de",
+            "erfolg": "Ekelig"
+        },
+        {
+            "spruch": "Ich Willst du mit kokoswasser von der Palme Schütteln ? ",
+            "language": "de",
+            "erfolg": "Ekelig"
+        },
+        {
+            "spruch": "Ich hab mein Kuscheltier vergessen kann ich mit dir heute schlafen ? ",
+            "language": "de",
+            "erfolg": "Süß"
+        },
+        {
+            "spruch": "Ich brenne zwar nicht den besten Schnaps aber wir könnnen auch auf andere Weise Rum machen.",
+            "language": "de",
+            "erfolg": "Dumm"
+        },
+        {
+            "spruch": "Liebe macht blind. Nimmst Du mich an die Hand und führst mich zu Dir nach Hause?",
+            "language": "de",
+            "erfolg": "Süß"
+        },
+        {
+            "spruch": "Did you hear about the big sale? No. There‘s a big sale in my bedroom tonight. All clothes are 100% off. ",
+            "language": "de",
+            "erfolg": "Billig"
+        },
+        {
+            "spruch": "Falls sich deine zwei beine streiten ruf mich an ich komm und geh dazwischen",
+            "language": "de",
+            "erfolg": "Witzig"
+        }
     ]
 }

@@ -429,6 +429,550 @@
             "spruch": "Falls sich deine zwei beine streiten ruf mich an ich komm und geh dazwischen",
             "language": "de",
             "erfolg": "Witzig"
-        }
+        },  {
+    "spruch": "Ist es so heiß hier drin oder bist du das?",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Glaubst du an Liebe auf den ersten Blick oder muss ich noch einmal an dir vorbeigehen?",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Was machen wir hier eigentlich?",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Hi, ich bin … , wie gefällts dir hier?",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Ich weiß, du kennst mich nicht, aber was nicht ist, kann ja noch werden!",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Dein Lachen gefällt mir. Hi, ich bin der…",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Sorry, ich hab meine Telefonnummer verloren. Kannst du mir deine borgen?",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Wow, so schöne lange Beine – bis zum Boden!",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Na, du auch hier?",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Sei anders als die anderen: Sage ‚Ja‘!",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Du siehst aus, als hättest du das dringende Bedürfnis mir deinen Namen zu nennen!",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Zeit zu spielen: Was ist das Peinlichste, das du jemals im Leben getan hast?",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Schreibst du mir wenn ich den ersten Schritt machen soll.",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Ich habe nur noch 3 Prozent Akku und beschlossen, dir zu schreiben. War der Rest-Akku gut investiert?",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Wenn wir schon mal geschrieben hätten, wären wir ja bestimmt schon verheiratet.",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Ich bin so betrunken, dass du gar nicht mal schlecht aussiehst.",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Wenn du eine Kartoffel wärst, wärst du eine Süsskartoffel.",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Sorry, hast du mal einen Stift? Ich möchte mir deine Nummer aufschreiben.",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Ich bin vom Pannendienst und würde dich heute Abend gerne abschleppen.",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Ich habe Hunger, darf ich dich vernaschen?",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "In welchen Katalog muss ich suchen, um dich zu finden?",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Sag mal schmeckt deine Zunge genauso süß, wie du auch aussiehst?",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Ich finde, mein Nachname passt gut zu deinem Vornamen!",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Ich kann hellsehen… heute Nacht, da schläfst du bei mir!",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Willst du deinen Körper mit mir teilen?",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Kaufst du mir ein Eis? Du darfst danach auch an mir lecken!",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Entschuldigung, aber auf welchen Anmachspruch würdest du denn am positivsten reagieren?",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Ich habe mir einen neuen Wecker gekauft. Willst du ihn morgen früh mal klingeln hören?",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Hallo mein Name ist Julia – möchtest du mein Romeo sein?",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Kenn ich dich nicht irgendwo her?",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Eigentlich bin ich ja keine Frau für eine Nacht, aber für dich würde ich gern eine Ausnahme machen!",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Verrätst du mir deinen Namen? Oder darf ich dich gleich „meins“ nennen?",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Hey, ich bin Barbie. Willst du mein Ken sein?",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Kommst du auch zu meinem Rendezvous mit dir?",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Du musst der wahre Grund für die globale Erderwärmung sein.",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Was gibt es sonst für Sehenswürdigkeiten in der Stadt außer dir ?",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Ich bin neu in der Stadt – kannst du mir den Weg zu dir nach Hause zeigen?",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Hey du , was willst du morgen zum Frühstück am Bett?",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Heißt du Google? Du bist alles, nachdem ich gesucht habe!",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Hab mein Bett heute frisch bezogen, leider mit zwei Bettdecken, willst du eine davon abhaben?",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Habe gerade einen Handlesekurs gemacht. Zeigst du mir mal deine Lebenslinie?",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Eigentlich bin ich ja kein Typ für eine Nacht, aber für dich würde ich gern eine Ausnahme machen!",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Könnte jemand eifersüchtig werden, wenn ich dich zu einem Glas Cola einladen würde?",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Ich hatte einen miesen Tag. Ich würde mich gleich besser fühlen, wenn so ein bezauberndes Mädchen wie du mich anlächeln würde.",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Wie fühlt man sich, wenn man die schönste Frau im Raum ist?",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Weißt du , dass es viele Männer gibt, die mit irgendeinem Spruch versuchen, ein Mädel anzumachen? Ich bin da ganz anders!",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Behältst du mich wenn ich dir bis nach Hause nachlaufe?",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Herzlichen Glückwunsch! Du hast soeben den Titel schönste Frau in diesem Raum gewonnen. Der Preis ist: eine Nacht mit mir.",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Hast du eine Landkarte? Ich habe mich gerade in deinen Augen verloren.",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Lass uns zu mir gehen und tun, wovon ich sowieso jedem erzählt habe, wir hätten es getan.",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Schau mir in die Augen und ich werde dein Herz öffnen.",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Es gibt genug Wunder, doch du übertriffst sie alle.",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Als Gott Dich schuf, wollte er sicher angeben.",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Darf ich dir heute Nacht Honig um den Bauchnabel streichen?",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Hallo mein Name ist Romeo – möchtest du meine Julia sein?",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Du bist so schön, dass es weh tut dich anzusehen.",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Ich hab in der Zeitung gelesen, dass Küsse glücklich machen! Darf ich dich glücklich machen?",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Hallo! So wie du aussiehst, hast du nur auf mich gewartet.",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Hätten du etwas dagegen, wenn ich dich aus der Nähe anstarre statt dies über den ganzen Raum zu tun?",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Ich dachte Engel hätten Flügel!",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Wow, siehst du zerknittert aus! Soll Ich mal über dich drüberbügeln?",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Sind deine Eltern Terroristen? – Du bist scharf wie eine Bombe.",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Sind deine Eltern vielleicht Architekten? Du bist so verdammt gut gebaut!",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Wir haben was gemeinsam: Ich mag hübsche Frauen und du bist eine hübsche Frau. Das kann doch kein Zufall sein!",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Was willst Du morgen zum Frühstück am Bett?",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Hey, ich bin Ken. Willst du meine Barbie sein?",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Ich steh im Telefonbuch unter „H“ wie Hengst",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Du siehst aus wie meine zukünftige Ehefrau",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Würden wir beide nicht reizend als Marzipanfiguren auf einer Hochzeitstorte aussehen?",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Wie heißt denn meine neue Freundin?",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Spielst du mit mir Gummibärchen?Ich spiele den Gummi, du das Bärchen!",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Wenn du mir ein Haus und einen Porsche kaufst, gehöre ich dir!",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Wie wäre es dir lieber? Willst du erst mit mir schick Essen gehen, oder soll ich dich gleich mit Liebe füttern?",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Hast du in der Sonne gelegen, oder warum bist du so heiß?",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Ich beobachte dich schon seit ein paar Stunden und frage mich, wie unsere Kinder wohl aussehen würden.",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Entschuldige bitte kurz, ich bin von der Knutschbundesbehörde. Ich bin gesetzlich dazu verpflichtet dein Kusstalent zu testen.",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Entschuldigung, macht es dir was aus wenn ich dich ’ne Minute anstarre? Ich möchte mich an dich in meinen Träumen erinnern.",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Du bist so heiß – kein Wunder, dass die Gletscher schmelzen.",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Hey, mein Zeigefinger ist ganz wund vom Swipen, weil ich dich so lange suchen musste. Kannst du ihn mir verarzten?",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Wir können ja immer noch so tun, als hätten wir uns zufällig im Supermarkt kennengelernt. Also, um 16 Uhr treffen im Aldi?",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Wahrheit oder Pflicht? Los geht’s!",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Auf dem ersten Bild siehst du total unschuldig aus, aber auf dem zweiten…oha! Welches deiner Bilder zeigt nun dein wahres Ich?",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Bin das erste Mal bei Tinder und ganz verwirrt. Heißt „Match“, dass wir uns jetzt treffen müssen?",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Hi, ich bin ein märchenhafter Online-Dating-Prinz. Willst du meine Tinderella sein?",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "So viele Kurven…und ich ohne Bremsen!",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Du bist der beste Beweis dafür, dass es Liebe auf den ersten Blick wirklich gibt.",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Ich hoffe, du kennst dich mit Wiederbelebungsmaßnahmen aus, denn mir bleibt deinetwegen die Luft weg.",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Wer hat nur die Diamanten gestohlen, um sie in deinen Augen zu verstecken?",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Ich hab meine Schlüssel verloren, kann ich bei Dir schlafen?",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Ich bin vom ADAC und würde dich heute Abend gerne abschleppen.",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Neben meinem Bett ist noch eine Steckdose für dein Ladekabel frei.",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Sind deine Brüste echt? Darf ich mal anfassen?",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Hast du schon mal einen echten Feuerwehrschlauch in der Hand gehabt?",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Ich liebe jeden Muskel in deinem Körper – besonders meinen.",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Würdest du für 1000 Euro mit mir ins Bett gehen? Dann müssen wir uns beeilen, denn ich brauche das Geld sehr dringend!",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Ich bin vom TÜV, darf ich mal deine Hupen testen?",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Schwitzt Du auch so? Wollen wir nicht duschen gehen?",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Kann ich mal deinen Puls fühlen, du siehst so erregt aus.",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Mit einem großen Penis hat man auch eine große Verantwortung.",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Soll ich dir mal einen Zaubertrick zeigen der funktioniert? Wir haben Sex und dann verschwindest du!",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Sag deinen Brüsten sie sollen aufhören meine Augen anzustarren",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "In meiner Hose ist ne Party und du bist herzlich eingeladen.",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Kannst du schwimmen, ich würde dich nämlich gerne ins Becken stoßen.",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Meine Kondome sind knapp vor dem Verfallsdatum, wir sollten sie nutzen, solange es noch geht.",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Wenn du mit mir schlafen willst, dann lächle kurz.",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Dieses Kostüm würde sich ausgesprochen hübsch auf meinen Schlafzimmerboden machen.",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Du bist der süßeste Snack, der mir je über den Weg gelaufen ist. Darf ich dich ohne Reue vernaschen?",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Eigentlich wollte ich dich ja anbaggern, meinen Bagger habe ich leider vergessen. Meinen Löffel habe ich aber dabei! Darf ich dich auch anlöffeln?",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  },
+  {
+    "spruch": "Endlich! Die passende Frau zu meiner Bettwäsche!",
+    "language": "de",
+    "Kategorie": "Klassiker"
+  }
     ]
 }
